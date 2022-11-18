@@ -63,7 +63,7 @@ text-decoration: none;
   padding: 20px 10px;
 }
 
-.our_team .team_member .member_img{
+.our_team .team_member .vikrantimg{
   background: #e9e5fa;  
   max-width: 90px;
   width: 90px;
@@ -75,7 +75,7 @@ text-decoration: none;
   cursor: pointer;
 }
 
-.our_team .team_member .member_img img{
+.our_team .team_member .vikrant.img img{
   width: 50%;
   height: 50%;
 }
@@ -98,7 +98,7 @@ text-decoration: none;
   line-height: 20px;
 }
 
-/* .our_team .team_member .member_img .social_media{
+/* .our_team .team_member .vikrant.img .social_media{
   position: absolute;
   top: 5px;
   left: 5px;
@@ -113,15 +113,15 @@ text-decoration: none;
    transition: all 0.5s ease;
 }
 
-.our_team .team_member .member_img .social_media .item{
+.our_team .team_member .vikrant.img .social_media .item{
   margin: 0 10px;
 }
 
-.our_team .team_member .member_img .social_media .fab{
+.our_team .team_member .vikrant.img .social_media .fab{
   color: white;
   font-size: 20px;
 }
 
-.our_team .team_member .member_img:hover .social_media{
+.our_team .team_member .vikrant.img:hover .social_media{
   transform: scale(1);
 } */
